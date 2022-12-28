@@ -1,3 +1,0 @@
-This guide is made for Visual Studio Code, if you're using another IDE or Text Editor feel free to look on the internet.
-1. Click Terminal > New Terminal
-2. Write this on the terminal "pip install -r requirements.txt" (only write the words that are within the quotation marks if python is installed it should be running normally)
