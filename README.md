@@ -12,7 +12,7 @@ Tugas Struktur Data A
 2. Kemudian ada tempat input untuk nama-nama vertex yang diinginkan user. Setiap kali sudah menginput satu nama kota maka perlu dipencet submit agar inputnya masuk.
 3. Ada input untuk start vertex dari rute DFS, BFS, dan findAllPath yang akan dibuat sesuai hasil random generatenya nanti.
 4. Ada input untuk mengisi nama vertex yang ingin dihapus oleh user.
-5. Ada tombol generate untuk generate graphnya sesuai input user. Tombol ini sifatnya dapat dispam terus menerus, setiap kali dipencet maka akan menghasilkan graph mengikuti input user dan dirandom.
+5. Ada tombol generate untuk generate graphnya sesuai input user. Tombol ini sifatnya dapat dispam terus menerus, setiap kali dipencet maka akan menghasilkan graph mengikuti input user dan dirandom edgenya.
 6. Ada box di kanan atas yang akan menampilkan nama vertex yang telah diinput user dan box di kanan bawah akan menampilkan rute hasil DFS, BFS, dan findAllPath dari start sesuai start vertex yang diinput user (kedua box ini bisa discroll).
 
 # Link Laporan
