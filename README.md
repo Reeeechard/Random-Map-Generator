@@ -15,5 +15,8 @@ Tugas Struktur Data A
 5. Ada tombol generate untuk generate graphnya sesuai input user. Tombol ini sifatnya dapat dispam terus menerus, setiap kali dipencet maka akan menghasilkan graph mengikuti input user dan dirandom.
 6. Ada box di kanan atas yang akan menampilkan nama vertex yang telah diinput user dan box di kanan bawah akan menampilkan rute hasil DFS, BFS, dan findAllPath dari start sesuai start vertex yang diinput user (kedua box ini bisa discroll).
 
+# Link Laporan
+https://docs.google.com/document/d/1iFD19GqCGpJ5k9Sbf1yYeVo2IXXAy893Qdyu8907IFI/edit?usp=sharing
+
 # Video Demo
 https://youtu.be/QibhDTsTdCI
